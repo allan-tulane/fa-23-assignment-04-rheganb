@@ -22,18 +22,16 @@ very clever reason.
 **1a)** Given a $N$ dollars, state a greedy algorithm for producing
 as few coins as possible that sum to $N$.
 
-**enter answer in `answers.md`**
-
 
 **1b)** Prove that this algorithm is optimal by proving the greedy
   choice and optimal substructure properties.
 
-**enter answer in `answers.md`**
+
 
 
 **1c)** What is the work and span of your algorithm?
 
-**enter answer in `answers.md`**
+
 
 
 ## Part 2: Making Change Again
@@ -50,8 +48,6 @@ possible?
 **2a)** You realize the greedy algorithm you devised above doesn't
   work in Fortuito. Give a simple counterexample that shows that the
   greedy algorithm does not produce the fewest number of coins.
-  
-**enter answer in `answers.md`**
 
 
 **2b)** Since you paid attention in Algorithms class, you realize that
@@ -67,7 +63,7 @@ possible?
   or bottom-up memoization to avoid recomputing solutions to
   subproblems, what is the work and span of your approach?
 
-**enter answer in `answers.md`**
+
 
 
 ## Part 3: Edit Distance
